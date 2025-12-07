@@ -1,7 +1,6 @@
 # tugas_absensi
-Sistem Absensi Mahasiswa U- Praktikum Bab 10 
-
 Khanaya Salsabila - 20241320021
+Sistem Absensi Mahasiswa UKRI - Praktikum Bab 10 
 
 Fitur Lengkap
 - CRUD (Create, Read, Update, Delete)
